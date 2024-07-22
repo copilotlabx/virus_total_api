@@ -6,7 +6,7 @@ import os
 import time
 
 # Conexion con la API de Virus Total #La API_KEY es diferente para casa usuario y se obtiene con una cuenta en virustotal.com
-API_KEY = '9703ddff14412bfb79654057f3736f02d5d6d578eb62c322ff5dec5b1b24711f'
+API_KEY = 'xyzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxyzx'
 api = PublicApi(API_KEY)
 
 #Verifica y Lista todos los Archivos actuales en las carpeta actual del proyecto "en_cuarentena"
